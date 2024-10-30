@@ -1,0 +1,171 @@
+# Copyright (C) 2016 Kotae
+# This file is distributed under the same license as the Kotae package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kotae 0.8.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/kotae\n"
+"POT-Creation-Date: 2016-05-03 14:26:15+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: controllers/ajax.php:21 models/rating.php:25 models/rating.php:49
+msgid "Login to rate this article"
+msgstr ""
+
+#: controllers/cats.php:46 controllers/cats.php:67
+msgid "Category with this name already exists."
+msgstr ""
+
+#: controllers/cats.php:90
+msgid "Category not found."
+msgstr ""
+
+#: controllers/posts.php:9
+msgid "Kotae Settings"
+msgstr ""
+
+#: controllers/posts.php:31
+msgid "Article rating: %s (from %d ratings)"
+msgstr ""
+
+#: controllers/posts.php:43
+msgid "Article rating: %d%% thumbs up / %d%% thumbs down (from  %d ratings)"
+msgstr ""
+
+#: models/basic.php:47
+msgid "Kotae Knowledge Base"
+msgstr ""
+
+#: models/basic.php:49
+msgid "Manage Categories"
+msgstr ""
+
+#: models/basic.php:77
+msgid "Please provide category name"
+msgstr ""
+
+#: views/cat-posts.html.php:2
+msgid "Back to the knowledge base"
+msgstr ""
+
+#: views/cat-posts.html.php:5
+msgid "Topics:"
+msgstr ""
+
+#: views/cat-posts.html.php:22
+msgid "Read full article"
+msgstr ""
+
+#: views/cats.html.php:3
+msgid "Manage Knowledge Base Categories"
+msgstr ""
+
+#: views/cats.html.php:6
+msgid "Managing subcategories of %s"
+msgstr ""
+
+#: views/cats.html.php:7
+msgid "Back to main categories"
+msgstr ""
+
+#: views/cats.html.php:11 views/cats.html.php:19
+msgid "Category name:"
+msgstr ""
+
+#: views/cats.html.php:12
+msgid "Add Category"
+msgstr ""
+
+#: views/cats.html.php:20
+msgid "Order:"
+msgstr ""
+
+#: views/cats.html.php:22
+msgid "manage subcategories"
+msgstr ""
+
+#: views/cats.html.php:25
+msgid "Save"
+msgstr ""
+
+#: views/cats.html.php:26
+msgid "Delete"
+msgstr ""
+
+#: views/cats.html.php:36
+msgid "Are you sure?"
+msgstr ""
+
+#: views/main.html.php:42
+msgid "View all articles"
+msgstr ""
+
+#: views/meta-box.html.php:5
+msgid "Knowledge Base Categories:"
+msgstr ""
+
+#: views/meta-box.html.php:16
+msgid "Add new category:"
+msgstr ""
+
+#: views/meta-box.html.php:16
+msgid "Add category"
+msgstr ""
+
+#: views/meta-box.html.php:18
+msgid ""
+"If you assign this post to some of the categories, it will be included in "
+"your knowledge base."
+msgstr ""
+
+#: views/options.html.php:3
+msgid "Kotae Knowledge Base Settings"
+msgstr ""
+
+#: views/options.html.php:7
+msgid "Arrange the knowledge base articles in %s columns."
+msgstr ""
+
+#: views/options.html.php:8
+msgid "Show up to %s articles per topic (then display \"More\" link)."
+msgstr ""
+
+#: views/options.html.php:9
+msgid "Rating widget:"
+msgstr ""
+
+#: views/options.html.php:10
+msgid "None"
+msgstr ""
+
+#: views/options.html.php:11
+msgid "Five stars widget"
+msgstr ""
+
+#: views/options.html.php:12
+msgid "Hads up / Hands down widget"
+msgstr ""
+
+#: views/options.html.php:15
+msgid "Save Settings"
+msgstr ""
+
+#: views/options.html.php:20
+msgid "Main Knowledge Base Page Preview"
+msgstr ""
+
+#: views/options.html.php:22
+msgid "You can publish this page in any post or page using the shortcode %s."
+msgstr ""
+
+#: views/search-form.html.php:5
+msgid "Search..."
+msgstr ""
+
+#: views/search-form.html.php:7
+msgid "Search"
+msgstr ""
